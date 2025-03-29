@@ -13,11 +13,15 @@ A estrutura foi projetada para armazenar informações de clientes, produtos, pe
 
 O banco de dados foi modelado para atender aos seguintes requisitos:
 
->> Diferenciar clientes Pessoa Física (PF) e Pessoa Jurídica (PJ);
->> Permitir mais de uma forma de pagamento por cliente;
->> Controlar status e código de rastreio das entregas;
->> Registrar pedidos, produtos, fornecedores, vendedores e estoque;
->> Criar consultas SQL para extrair informações relevantes.
+-> Diferenciar clientes Pessoa Física (PF) e Pessoa Jurídica (PJ),
+
+-> Permitir mais de uma forma de pagamento por cliente,
+
+-> Controlar status e código de rastreio das entregas,
+
+-> Registrar pedidos, produtos, fornecedores, vendedores e estoque,
+
+-> Criar consultas SQL para extrair informações relevantes.
 
 ## 📂 Modelagem do Banco de Dados ##
 
